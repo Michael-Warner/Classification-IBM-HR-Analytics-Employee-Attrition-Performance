@@ -17,8 +17,9 @@ The methodology used was an EDA of the dataset, then cleaning of the dataset, ru
 
 ## Result:
 
-The best model based on recall, as all potentially leaving employees needed to be selected, was the Gaussian Naive Bayes model. It had the highest recall rate of 67.6%.
-While with this model, we can only be able identify 67.6% of employees who quit, the human resources department and department managers may be able to improve this with adding other measurements. Such as job performance changes or emotions.
+The best model based on recall, as all potentially leaving employees needed to be selected, was the Gaussian Naive Bayes model. It had the highest recall rate of 67.6%
+
+While this model was only able to identify 67.6% of employees who quit, the human resources department and department managers may be able to improve this with adding other measurements. Such as job performance changes or emotions.
 
 The study also found that things that most affected the employees outcome or not was the following: 
  1) Employees’ background <br/>
@@ -34,7 +35,7 @@ The study also found that things that most affected the employees outcome or not
 
 ## Conclusion:
 
-It was suggested that the following measures to be implimented to improve the employees morale and to reduce their attrition rate:
+It was suggested that the following measures to be implemented to improve the employees morale and to reduce their attrition rate:
  * Career counseling and coaching for new employees
  * Stock Options for junior employees
  * Working time or workload adjustment
