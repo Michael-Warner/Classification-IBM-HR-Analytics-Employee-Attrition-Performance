@@ -1,7 +1,21 @@
-# Classification--IBM HR Analytics Employee Attrition Performance<br/>
-## IBM HR Analytics Employee Attrition & Performance<br/> Classification problem on Employee Attrition <br/>
-Based on the fictional dataset provided by IBM found on Kaggle :<br/>
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset<br/>
+# IBM HR Analytics of Employee Attrition and Performance
+
+## Purpose:
+
+The purpose of this project was to correctly guess if an employee was to leave based on multiple aspects. Then to follow up with suggestions of how to reduce attrition and in turn, reduce company expenses on retraining new employees and the knock-on effect of constently losing people.
+
+![Quit](https://media.istockphoto.com/photos/businessperson-walking-out-picture-id928080898?k=6&m=928080898&s=612x612&w=0&h=Om_wzoeaN7y-DKx5APQKVaHtb7mbOKUh403ct5M_gok=)
+
+## Dataset:
+
+The dataset is provided IBM as a fictional set of people in company. It can be found [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). This data set had 34 variables and one target variable, attrition.
+
+## Method:
+
+## Result:
+
+## Conclusion:
+
 
 In this project, we evaluate our model based on **recall(sensitivity)** as we want to know how well the model detect the employee quitted(TP) from who actually quitted (TP + FN).<br/>
 It is the proportion of positive result that were correctly classified from all the actual positive.
