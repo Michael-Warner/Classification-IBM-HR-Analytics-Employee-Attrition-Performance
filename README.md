@@ -5,6 +5,7 @@
 The purpose of this project was to correctly guess if an employee was to leave based on multiple aspects. Then to follow up with suggestions of how to reduce attrition and in turn, reduce company expenses on retraining new employees and the knock-on effect of constently losing people.
 
 ![Quit](https://media.istockphoto.com/photos/businessperson-walking-out-picture-id928080898?k=6&m=928080898&s=612x612&w=0&h=Om_wzoeaN7y-DKx5APQKVaHtb7mbOKUh403ct5M_gok=)
+
 For a detailed analysis of this project please see code used along with the comments [here](https://github.com/Zexes9/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Employee_Attrition_prediction.R). 
 
 ## Dataset:
